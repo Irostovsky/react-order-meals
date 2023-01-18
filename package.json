@@ -1,7 +1,7 @@
 {
   "name": "react-order-meals",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-order-meals",
+  "homepage": "https://irostovsky.github.io/react-order-meals/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

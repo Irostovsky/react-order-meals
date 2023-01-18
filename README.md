@@ -1,6 +1,6 @@
 # react-order-meals
 
-Deployed on github pages: https://gitname.github.io/react-order-meals
+Deployed on github pages: https://irostovsky.github.io/react-order-meals/
 
 # Getting Started with Create React App
 
