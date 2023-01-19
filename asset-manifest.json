@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-order-meals/static/css/main.d59d8d59.css",
-    "main.js": "/react-order-meals/static/js/main.cd4be8f6.js",
+    "main.css": "/react-order-meals/static/css/main.64664b29.css",
+    "main.js": "/react-order-meals/static/js/main.733506e6.js",
     "static/media/meals.jpg": "/react-order-meals/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/react-order-meals/index.html",
-    "main.d59d8d59.css.map": "/react-order-meals/static/css/main.d59d8d59.css.map",
-    "main.cd4be8f6.js.map": "/react-order-meals/static/js/main.cd4be8f6.js.map"
+    "main.64664b29.css.map": "/react-order-meals/static/css/main.64664b29.css.map",
+    "main.733506e6.js.map": "/react-order-meals/static/js/main.733506e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d59d8d59.css",
-    "static/js/main.cd4be8f6.js"
+    "static/css/main.64664b29.css",
+    "static/js/main.733506e6.js"
   ]
 }
